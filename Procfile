@@ -1,1 +1,1 @@
-worker: node bot.js Louiz
+worker: node bot.js
